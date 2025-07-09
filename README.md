@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🚀 Sou um desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo.</h4>
+<h align="left">🚀 Sou um desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo.</h4>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Estou em processo de migração de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.</p>
+<h3 align="left">Estou em processo de migração de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.</p>
 
 ###
 
