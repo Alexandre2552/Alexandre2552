@@ -1,40 +1,47 @@
-# 🎯 Olá, seja muito bem-vindo ao meu GitHub!
+<h1 align="left">🎯 Olá, seja muito bem-vindo ao meu GitHub!</h1>
 
-🙋🏽 Meu nome é **Alexandre Luiz Almeida**, sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Positivo.  
-Possuo conhecimentos em Front-end, com habilidades em **HTML, CSS, JavaScript e React**.  
-Também sou graduado em Tecnologia em Fabricação Mecânica pela UniSenai e possuo formação técnica em Mecatrônica.
+###
 
-🔭 Atualmente, trabalho na **Oregon Tool** como Designer Industrial, participando de diversos projetos e ações de melhoria contínua.
+<p align="left">🙋🏽 Meu nome é Alexandre Luiz Almeida, sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Positivo. Possuo conhecimentos em Front-end, com habilidades em HTML, CSS, JavaScript e React.. Também sou graduado em Tecnologia em Fabricação Mecânica pela UniSenai e possuo formação técnica em Mecatrônica.<br><br>🔭 Atualmente, trabalho na Oregon Tool como Designer Industrial, participando de diversos projetos e ações de melhoria contínua.<br><br>🌱 Estou em processo de migração de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.<br><br>🚀 Estou animado com as novas possibilidades e oportunidades de aprendizado que estão por vir.<br><br>🔥 Sou apaixonado por novas tecnologias e linguagens de programação, e estou ansioso para assumir novos desafios.<br><br>🌎 Moro em Curitiba e estou aberto a novas oportunidades profissionais.</p>
 
-🌱 Estou em processo de migração de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.
+###
 
-🚀 Estou animado com as novas possibilidades e oportunidades de aprendizado que estão por vir.
+<h2 align="left">📈 Estatística do GitHub</h2>
 
-🔥 Sou apaixonado por novas tecnologias e linguagens de programação, e estou ansioso para assumir novos desafios.
+###
 
-🌎 Moro em Curitiba e estou aberto a novas oportunidades profissionais.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexandre2552&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Alexandre2552&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre2552&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
+</div>
 
-## 📈 Estatísticas do GitHub
+###
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexandre2552&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Alexandre2552&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre2552&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="200" alt="Top Languages" />
-</p>
+<h2 align="left">🖥️ Principais Linguagens e Tecnologias</h2>
 
-## 🖥️ Principais Linguagens e Tecnologias
+###
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+</div>
 
-## 🌐 Redes Sociais
+###
 
-<p align="left">
+<h2 align="left">🌐 Redes sociais:</h2>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/alexandreluizalmeida/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
-</p>
+</div>
+
+###
