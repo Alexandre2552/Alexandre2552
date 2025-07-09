@@ -1,4 +1,5 @@
 # 🎯 Seja muito bem vindo ao meu GitHub!
+---
 
  Olá, meu nome é Alexandre Luiz Almeida e, a seguir, gostaria de compartilhar um pouco sobre mim!
 
