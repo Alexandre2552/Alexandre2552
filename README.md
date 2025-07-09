@@ -1,4 +1,4 @@
-<h1 align="left">🎯 Olá, seja muito bem-vindo ao meu GitHub!</h1>
+<h1 align="left">🎯 Olá, seja muito bem vindo ao meu GitHub!</h1>
 
 ###
 
@@ -6,14 +6,16 @@
 
 ###
 
-<h2 align="left">📈 Estatística do GitHub</h2>
+<h2 align="left">📈 Estatísticas do GitHub</h2>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexandre2552&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Alexandre2552&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre2552&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexandre2552&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Alexandre2552&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre2552&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -30,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
 
 ###
@@ -39,9 +45,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alexandreluizalmeida/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="50" alt="linkedin logo"  />
 </div>
 
 ###
