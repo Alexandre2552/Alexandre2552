@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Estou em processo de migração de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.</p>
+<p align="left">Estou em processo de transição de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.</p>
 
 ###
 
