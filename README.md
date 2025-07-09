@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🎓 Formação</h3>
+<h2 align="left">🎓 Formação</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">💼 Experiência Profissional</h3>
+<h2 align="left">💼 Experiência Profissional</h2>
 
 ###
 
@@ -18,15 +18,15 @@
 
 ###
 
-<h3 align="left">🔄 Transição de Carreira</h3>
+<h2 align="left">🔄 Transição de Carreira</h2>
 
 ###
 
-<p align="left">Estou em processo de transição de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.</p>
+<p align="left">Estou em processo de transição de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.<br><br>Estou em processo de desligamento da empresa, com previsão de saída até dezembro 2025.<br><br>😀 Estou animado com as novas possibilidades e oportunidades de aprendizado que estão por vir.</p>
 
 ###
 
-<h3 align="left">🚀 Perfil</h3>
+<h2 align="left">🚀 Perfil</h2>
 
 ###
 
