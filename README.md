@@ -2,7 +2,7 @@
 
 
  Olá, meu nome é Alexandre Luiz Almeida e, a seguir, gostaria de compartilhar um pouco sobre mim!
-
+---
 
 ## 🎓 Formação
 
