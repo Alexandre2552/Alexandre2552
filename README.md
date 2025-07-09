@@ -1,6 +1,3 @@
-Segue o código Markdown para ser usado no README do GitHub, baseado no modelo fornecido, já pronto para copiar e colar:
-
-```markdown
 # 🎯 Bem-vindo ao GitHub de Alexandre Luiz Almeida!
 
 Olá, sou Alexandre Luiz Almeida!
@@ -30,19 +27,19 @@ Estou migrando para a área de **Desenvolvimento de Software**, trazendo comigo 
 
 ## 🖥️ Principais Competências Técnicas
 
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+</div>
 
 - Desenvolvimento Front-end: **HTML5, CSS3, JavaScript, React, TypeScript**
 - Conhecimentos em **Python** para automação e scripts
@@ -51,24 +48,18 @@ Estou migrando para a área de **Desenvolvimento de Software**, trazendo comigo 
 
 ## 📈 Estatísticas do GitHub
 
-
-  
-  
-  
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexandre2552&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="175" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Alexandre2552&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre2552&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
+</div>
 
 ## 🌐 Contato & Redes Sociais
 
-
-  
-    
-  
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/alexandreluizalmeida/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="50" alt="linkedin logo"  />
+  </a>
+</div>
 
 **Vamos conversar sobre como posso agregar valor à sua equipe!**
-```
-
-Esse código está pronto para ser usado no seu README.md do GitHub, aproveitando suas preferências por Markdown bem formatado e imagens de tecnologias, conforme seu perfil de uso do GitHub e Visual Studio Code[1][2].
-
-[1] programming.version_control
-[2] programming.development_tools
