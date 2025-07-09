@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"> - Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Positivo  <br>- Graduado em Tecnologia em Fabricação Mecânica pela UniSenai  <br>- Técnico em Mecatrônica</p>
+<p align="left">- Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Positivo  <br>- Graduado em Tecnologia em Fabricação Mecânica pela UniSenai  <br>- Técnico em Mecatrônica</p>
 
 ###
 
@@ -83,5 +83,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="50" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">🚀 Estou animado com as novas possibilidades e oportunidades de aprendizado que estão por vir.</p>
 
 ###
