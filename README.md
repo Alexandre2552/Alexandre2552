@@ -1,4 +1,4 @@
-# 🎯 Bem-vindo ao GitHub de Alexandre Luiz Almeida!
+# 🎯 Olá, seja muito bem vindo ao meu GitHub!
 
 Olá, sou Alexandre Luiz Almeida!
 
