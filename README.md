@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Graduando em **Análise e Desenvolvimento de Sistemas** pela Universidade Positivo  <br>- Graduado em **Tecnologia em Fabricação Mecânica** pela UniSenai  <br>- Técnico em **Mecatrônica**</p>
+<p align="left">- Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Positivo  <br>- Graduado em Tecnologia em Fabricação Mecânica pela UniSenai  <br>- Técnico em Mecatrônica</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Atualmente atuo como **Designer Industrial** na Oregon Tool, onde participo de projetos de inovação e melhoria contínua, aplicando metodologias ágeis e foco em resultados.</p>
+<p align="left">🔭 Atualmente, trabalho na Oregon Tool como Designer Industrial, participando de diversos projetos e ações de melhoria contínua.</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Estou migrando para a área de **Desenvolvimento de Software**, trazendo comigo uma sólida bagagem em processos industriais, resolução de problemas e trabalho em equipe.</p>
+<p align="left">🌱 Estou em processo de migração de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">**🌎 Localização:** Curitiba, PR  <br>**🔗 Disponível para novas oportunidades.**</p>
+<p align="left">🌎 Localização: Curitiba, PR  <br>🔗 Disponível para novas oportunidades.</p>
 
 ###
 
