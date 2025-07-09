@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Positivo  <br>- Graduado em Tecnologia em Fabricação Mecânica pela UniSenai  <br>- Técnico em Mecatrônica</p>
+<p align="left"> - Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Positivo  <br>- Graduado em Tecnologia em Fabricação Mecânica pela UniSenai  <br>- Técnico em Mecatrônica</p>
 
 ###
 
