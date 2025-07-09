@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🚀 Sobre mim</h2>
+<h4 align="left">🚀 Sou um desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo.</h4>
 
 ###
 
@@ -91,9 +91,5 @@
 ###
 
 <p align="left">“A tecnologia move o mundo.” – Steve Jobs</p>
-
-###
-
-<p align="left">🚀 Estou animado com as novas possibilidades e oportunidades de aprendizado que estão por vir.</p>
 
 ###
