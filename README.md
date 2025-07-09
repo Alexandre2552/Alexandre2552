@@ -2,10 +2,6 @@
 
 ###
 
-<h align="left">🚀 Sou um desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo.</h4>
-
-###
-
 <h3 align="left">🎓 Formação</h3>
 
 ###
@@ -26,7 +22,7 @@
 
 ###
 
-<h3 align="left">Estou em processo de migração de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.</p>
+<p align="left">Estou em processo de migração de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.</p>
 
 ###
 
@@ -90,6 +86,6 @@
 
 ###
 
-<p align="left">“A tecnologia move o mundo.” – Steve Jobs</p>
+<h4 align="left">“A tecnologia move o mundo.” – Steve Jobs</h4>
 
 ###
