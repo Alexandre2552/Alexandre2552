@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">## 🎓 Formação</h2>
+<h2 align="left">🎓 Formação</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">## 💼 Experiência Profissional</h2>
+<h2 align="left">💼 Experiência Profissional</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">## 🔄 Transição de Carreira</h2>
+<h2 align="left">🔄 Transição de Carreira</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">## 🚀 Perfil</h2>
+<h2 align="left">🚀 Perfil</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">## 📈 Estatísticas do GitHub</h2>
+<h2 align="left">📈 Estatísticas do GitHub</h2>
 
 ###
 
