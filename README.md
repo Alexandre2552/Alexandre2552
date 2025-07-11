@@ -42,8 +42,9 @@
 
 ###
 
-| ![Stats graph](https://github-readme-stats.vercel.app/api?username=Alexandre2552&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true) | ![Streak graph](https://streak-stats.demolab.com?user=Alexandre2552&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5) | ![Languages graph](https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre2552&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Alexandre2552&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true) | ![Streak](https://streak-stats.demolab.com?user=Alexandre2552&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre2552&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true) |
 |---|---|---|
+
 
 
 ###
