@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🧳 Estou em processo de transição de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.<br><br>👉🏼 Estou em processo de desligamento da empresa, com previsão de saída até dezembro 2025.<br><br>😀 Estou animado com as novas possibilidades e oportunidades de aprendizado que estão por vir.</p>
+<p align="left">🧳 Estou em processo de transição de carreira. Não deixo para trás minha experiência anterior, pois acredito que todo o aprendizado adquirido será um grande diferencial nesta nova jornada.<br><br>.<br><br>😀 Estou animado com as novas possibilidades e oportunidades de aprendizado que estão por vir.</p>
 
 ###
 
